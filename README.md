@@ -6,5 +6,5 @@ Step 1:- Open Command Prompt on your Windows device
 Step 2:- Write or copy-paste the following line ; **pip install pynput**
 Step 3:- Click on the Autoclicker.exe file
 
-**To start or stop the autoclicker click the " `" key**
+**To start or stop the autoclicker click the '`' key (the key to the left of the '1' key)**
       
