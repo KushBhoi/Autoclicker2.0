@@ -1,7 +1,3 @@
-
-
-Here's an improved version of your text with clearer instructions and a more polished tone:
-
 ---
 
 # Welcome to the Autoclicker Repository!
@@ -22,5 +18,3 @@ Follow the instructions below to ensure proper setup:
 - To **start or stop** the autoclicker, press the '`' key (located to the left of the '1' key on your keyboard).
 
 ---
-
-This version is more structured and emphasizes key points for better clarity.
