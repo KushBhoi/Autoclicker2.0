@@ -2,7 +2,7 @@
 
 # Welcome to the Autoclicker Repository!
 
-This project offers a powerful and highly customizable autoclicker tool, designed to automate repetitive clicking tasks on your computer. Whether you're looking to streamline workflow processes, boost productivity, or automate testing, this autoclicker is the perfect solution.
+This project offers a powerful autoclicker tool, designed to automate repetitive clicking tasks on your computer. Whether you're looking to streamline workflow processes, boost productivity, or automate testing, this autoclicker is the perfect solution.
 
 ### IMPORTANT: (Skipping these steps will prevent the application from working)
 Follow the instructions below to ensure proper setup:
